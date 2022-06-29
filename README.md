@@ -19,28 +19,26 @@
 </div>
 
 ## :page_facing_up: Descrição
-O LetmeAsk é um aplicação de perguntas e resposta para quem faz lives, uma aplicação desenvolvida durante a NLW#6 da Rocktseat.
+O CodePlataform é um aplicação de aulas para um evento, desenvolvida durante o ignateLab da Rocketseat.
 
 <!-- ## :art: Layout
-Você pode acessar o Layout pelo <a href="https://www.figma.com">Figma<a> atravês <a href="https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0">desse link<a>. -->
+Você pode acessar o Layout pelo <a href="https://www.figma.com">Figma<a> atravês <a href="https://www.figma.com/file/j4bK1YK93jEbuxfSvrKf1K/Plataforma-de-evento---Ignite-Lab-(Community)?node-id=24%3A2">desse link<a>. -->
 
 ## 🛠 Tecnologias
 Este projeto foi desenvolvido com as seguintes tecnologias
 
 - [React.js](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [StyledComponents](https://styled-components.com/)
-- [React-Toastify](https://fkhadra.github.io/react-toastify/introduction/)
-- [Firebase](https://firebase.google.com/docs)
+- [ViteJs](https://vitejs.dev/guide/)
+- [Phosphor-Icons](https://phosphoricons.com/)
+- [GraphCMS](https://graphcms.com/)
 
 ## :clipboard: Funcionalidades
-- [x] Iniciar um ciclo de 25 minutos.
-- [x] Abadornar ciclo.
-- [x] Dispara um efeito sonoro quando o ciclo chega ao fim.
-- [x] Manda uma notificação quando o ciclo chega ao seu fim.
-- [x] A cada ciclo libera um novo desafio.
-- [x] Usuário ganha XP a cada desafio concluído.
-- [x] Usuário pode subir de nível.
+- [x] Se inscrever no evento.
+- [x] Lista de Aulas não disponíveis.
+- [x] Lista de Aulas disponíveis.
+- [x] Acesso a material complementar.
+- [x] Acesso a desafios.
 
 
 ## :closed_book: Instalação
@@ -51,16 +49,16 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ```bash
 # Clone este repositório.
-$ git clone https://github.com/CrisPer12/letmeaskCris.git
+$ git clone https://github.com/CrisPer12/code-platform.git
 
-# Vá para a pasta moveyou-next
-$ cd letmeask
+# Vá para a pasta code-platform
+$ cd code-platform
 
 # Instale as dependências
-$ yarn install 
+$ npm install 
 
 # Execute aplicação
-$ yarn start
+$ npm run dev
 
 # O app vai está rodando na porta 3000 - acesse <http://localhost:3000>
 ```
