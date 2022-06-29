@@ -14,10 +14,8 @@
 
 
 <div align="center">
-  <img  width="700px" src="https://github.com/CrisPer12/letmeaskCris/blob/main/home.JPG" />
-  <img  width="700px" src="https://github.com/CrisPer12/letmeaskCris/blob/main/criarSala.JPG" />
-  <img  width="700px" src="https://github.com/CrisPer12/letmeaskCris/blob/main/createQuestion.JPG" />
-  <img  width="700px" src="https://github.com/CrisPer12/letmeaskCris/blob/main/adminRoom.JPG" />
+  <img  width="700px" src="https://github.com/CrisPer12/code-platform/blob/master/home.JPG" />
+  <img  width="700px" src="https://github.com/CrisPer12/code-platform/blob/master/auka.JPG" />
 </div>
 
 ## :page_facing_up: Descrição
